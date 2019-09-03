@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="console-app/src/main/java"/>
+	<classpathentry kind="src" path="console-app/src/test/java"/>
+	<classpathentry kind="src" path="game-controller/src/main/java"/>
+	<classpathentry kind="src" path="game-controller/src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanc/Downloads/jar_files/jansi-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanc/Downloads/jar_files/JCDP-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanc/Downloads/cucumber-java-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanc/Downloads/cucumber-junit-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/stanc/Downloads/cucumber-core-4.7.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/stanc/Downloads/system-rules-1.19.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
